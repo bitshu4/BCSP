@@ -3,6 +3,8 @@ Have you ever played *The Battle Cats*? If you haven't, I highly recommend it. B
 
 This mod adds the menu theme from *The Battle Cats* into your game, adds other *The Battle Cats* sound effects and even adds the splash text cat from the menu! If you're ever feeling down, just click on the speech bubble and be entertained! Hopefully.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0971ddfd-5417-4607-8b26-2da6f54c95fd" />
+
 ## Installation
 Installing **BCSP** is very easy.
 1. Install [MelonLoader](https://github.com/LavaGang/MelonLoader) and select Slope Plus as the target game while running the installer.
