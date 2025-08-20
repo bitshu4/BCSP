@@ -5,8 +5,8 @@ This mod adds the menu theme from *The Battle Cats* into your game, adds other *
 
 ## Installation
 Installing **BCSP** is very easy.
-First, install [MelonLoader](https://github.com/LavaGang/MelonLoader) and select Slope Plus as the target game while running the installer.
-Then, simply drag all the folders of this project into your Slope Plus directory and the mod should work!
+1. Install [MelonLoader](https://github.com/LavaGang/MelonLoader) and select Slope Plus as the target game while running the installer.
+2. Simply drag all the folders of this project into your Slope Plus directory and the mod should work!
 
 ## Compatibility
 This mod only works when using Slope Plus version 1.3.0. Install the game [here](https://coweggs.itch.io/slope-plus).
